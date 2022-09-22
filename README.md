@@ -10,6 +10,8 @@ Webdriver for chrome latest build Version 105.0.5195.127 is already included in 
 
 Run using Ctrl + R, A on visual studio, or run graphically using visual studio.
 
-Specflow and NUnit are used in this module to meet the goals of the assignment
+Specflow and NUnit are used in this module to meet the goals of the assignment.
+
+Feel free to reach out to me in case of any issues.
 
 Cheers!
