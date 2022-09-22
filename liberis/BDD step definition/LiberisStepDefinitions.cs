@@ -13,6 +13,7 @@ namespace liberis
         [Given(@"Set implicit wait on the driver")]
         public void GivenSetImplicitWaitOnTheDriver()
         {
+            Console.WriteLine(Directory.GetCurrentDirectory());
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
         }
 
